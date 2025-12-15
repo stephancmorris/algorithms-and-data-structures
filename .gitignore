@@ -1,0 +1,31 @@
+# Language-specific
+*.class
+*.pyc
+__pycache__/
+*.o
+*.exe
+*.out
+*.so
+*.dylib
+node_modules/
+target/
+build/
+dist/
+*.jar
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+coverage/
+*.log
+
+# Personal notes
+notes.txt
+scratch/
